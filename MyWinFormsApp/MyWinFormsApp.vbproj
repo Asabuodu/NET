@@ -1,0 +1,31 @@
+﻿<!-- 
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <Compile Include="Form1.vb" />
+    <Compile Include="Form1.Designer.vb" />
+    <Compile Include="TemperatureConverter.vb" />
+    <Compile Include="TemperatureConverter.Designer.vb" />
+    <Compile Include="FutureValueCalculator.vb" />
+    <Compile Include="FutureValueCalculator.Designer.vb" />
+    <Compile Include="Program.vb" />
+  </ItemGroup>
+</Project> -->
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>

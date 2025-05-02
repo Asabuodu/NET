@@ -1,0 +1,14 @@
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\bin\Debug\net6.0-windows\MyWinFormsApp.exe
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\bin\Debug\net6.0-windows\MyWinFormsApp.deps.json
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\bin\Debug\net6.0-windows\MyWinFormsApp.runtimeconfig.json
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\bin\Debug\net6.0-windows\MyWinFormsApp.dll
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\bin\Debug\net6.0-windows\MyWinFormsApp.pdb
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\MyWinFormsApp.AssemblyInfo.vb
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\MyWinFormsApp.vbproj.CoreCompileInputs.cache
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\MyWinFormsApp.dll
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\refint\MyWinFormsApp.dll
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\MyWinFormsApp.pdb
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\MyWinFormsApp.genruntimeconfig.cache
+C:\Users\tolul\Downloads\Unique\NET\MyWinFormsApp\obj\Debug\net6.0-windows\ref\MyWinFormsApp.dll
